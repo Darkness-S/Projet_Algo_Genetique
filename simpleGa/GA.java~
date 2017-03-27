@@ -16,7 +16,6 @@ public class GA {
 	
 	String A, B; 
 	
-	
 	int cercleA; 
 	cercleA = (decimal(A)/1023) * ((80 - 10)/0.1) * 0.1 + 10
 	
